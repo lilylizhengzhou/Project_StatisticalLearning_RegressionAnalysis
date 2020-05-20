@@ -1,0 +1,801 @@
+"type","method","R_Squared"
+"train","Lasso",0.672175716355482
+"train","Lasso",0.674638557937615
+"train","Lasso",0.677681201382576
+"train","Lasso",0.678632992237199
+"train","Lasso",0.674085803498207
+"train","Lasso",0.668867100766956
+"train","Lasso",0.676191785611583
+"train","Lasso",0.677718098227614
+"train","Lasso",0.673603891975932
+"train","Lasso",0.673610877886958
+"train","Lasso",0.672942736979502
+"train","Lasso",0.674178145143568
+"train","Lasso",0.67910610433363
+"train","Lasso",0.674400595226138
+"train","Lasso",0.675423038570461
+"train","Lasso",0.669792201181974
+"train","Lasso",0.672959139439778
+"train","Lasso",0.671078011339724
+"train","Lasso",0.669387342584399
+"train","Lasso",0.672167413677377
+"train","Lasso",0.670827195995713
+"train","Lasso",0.678368736605366
+"train","Lasso",0.670803099205368
+"train","Lasso",0.672121611782965
+"train","Lasso",0.679194912861688
+"train","Lasso",0.6759431648401
+"train","Lasso",0.680456349555824
+"train","Lasso",0.673465248685533
+"train","Lasso",0.67669685778508
+"train","Lasso",0.676126975141527
+"train","Lasso",0.677720829658277
+"train","Lasso",0.671977860713795
+"train","Lasso",0.676049727887761
+"train","Lasso",0.67220345740302
+"train","Lasso",0.676540097501619
+"train","Lasso",0.671894795176803
+"train","Lasso",0.677541695219405
+"train","Lasso",0.670447034786168
+"train","Lasso",0.67439337467004
+"train","Lasso",0.671684696522675
+"train","Lasso",0.673283859604955
+"train","Lasso",0.676654179073365
+"train","Lasso",0.67499147149252
+"train","Lasso",0.676046524688679
+"train","Lasso",0.673188239900592
+"train","Lasso",0.674151352362059
+"train","Lasso",0.676488536960575
+"train","Lasso",0.67390201346018
+"train","Lasso",0.675511746076029
+"train","Lasso",0.674402231392468
+"train","Lasso",0.674830849171201
+"train","Lasso",0.673173758302056
+"train","Lasso",0.670374673022872
+"train","Lasso",0.669618558568817
+"train","Lasso",0.672273468784944
+"train","Lasso",0.672017990879503
+"train","Lasso",0.675271336428472
+"train","Lasso",0.674978768697938
+"train","Lasso",0.674488074748493
+"train","Lasso",0.679143749826356
+"train","Lasso",0.675030858578989
+"train","Lasso",0.67313522660102
+"train","Lasso",0.678111869227473
+"train","Lasso",0.67212373301762
+"train","Lasso",0.666436060775655
+"train","Lasso",0.673421772066116
+"train","Lasso",0.678417417779348
+"train","Lasso",0.669922920054202
+"train","Lasso",0.674943215553465
+"train","Lasso",0.672477676502785
+"train","Lasso",0.675710884444396
+"train","Lasso",0.671847126050986
+"train","Lasso",0.669935973103416
+"train","Lasso",0.673739427993642
+"train","Lasso",0.672340906273327
+"train","Lasso",0.680345907202897
+"train","Lasso",0.675285440288664
+"train","Lasso",0.674578371365306
+"train","Lasso",0.675396152670408
+"train","Lasso",0.677992766422206
+"train","Lasso",0.675513325602366
+"train","Lasso",0.671711758038967
+"train","Lasso",0.669004450622008
+"train","Lasso",0.67138439876029
+"train","Lasso",0.673295619583855
+"train","Lasso",0.669363740808897
+"train","Lasso",0.670196004354607
+"train","Lasso",0.67296867483756
+"train","Lasso",0.673769726682044
+"train","Lasso",0.674450794419052
+"train","Lasso",0.674106628890871
+"train","Lasso",0.671450798663201
+"train","Lasso",0.669715044137085
+"train","Lasso",0.673718942251558
+"train","Lasso",0.67603265059644
+"train","Lasso",0.672126787778447
+"train","Lasso",0.673663995964281
+"train","Lasso",0.672905578624891
+"train","Lasso",0.673188899291384
+"train","Lasso",0.673975174022746
+"train","Elastic-net",0.672218446304227
+"train","Elastic-net",0.674605520379291
+"train","Elastic-net",0.67762759985599
+"train","Elastic-net",0.678742903538098
+"train","Elastic-net",0.673939256574701
+"train","Elastic-net",0.668899359769363
+"train","Elastic-net",0.676130634867961
+"train","Elastic-net",0.677788161685668
+"train","Elastic-net",0.673529283758205
+"train","Elastic-net",0.673598533806204
+"train","Elastic-net",0.67288543829582
+"train","Elastic-net",0.67418168220918
+"train","Elastic-net",0.679174873777733
+"train","Elastic-net",0.674518245010318
+"train","Elastic-net",0.675431489032339
+"train","Elastic-net",0.669750560932684
+"train","Elastic-net",0.672964516916345
+"train","Elastic-net",0.671154711837022
+"train","Elastic-net",0.669390517165506
+"train","Elastic-net",0.672113856529312
+"train","Elastic-net",0.670766880752709
+"train","Elastic-net",0.678374383978309
+"train","Elastic-net",0.670730994014713
+"train","Elastic-net",0.672125993963221
+"train","Elastic-net",0.679335722532352
+"train","Elastic-net",0.675984383352053
+"train","Elastic-net",0.680583377130073
+"train","Elastic-net",0.673394882885619
+"train","Elastic-net",0.6767377179356
+"train","Elastic-net",0.676247986461695
+"train","Elastic-net",0.677860303899716
+"train","Elastic-net",0.671826822771055
+"train","Elastic-net",0.676175236232611
+"train","Elastic-net",0.672249368501501
+"train","Elastic-net",0.676629731863978
+"train","Elastic-net",0.671923473622981
+"train","Elastic-net",0.677593134433622
+"train","Elastic-net",0.67041998631558
+"train","Elastic-net",0.674427741639788
+"train","Elastic-net",0.671749969906462
+"train","Elastic-net",0.673232274501527
+"train","Elastic-net",0.676678777812766
+"train","Elastic-net",0.674971911232403
+"train","Elastic-net",0.675915374666402
+"train","Elastic-net",0.67330210138228
+"train","Elastic-net",0.674154646551551
+"train","Elastic-net",0.676568224909833
+"train","Elastic-net",0.673835722503958
+"train","Elastic-net",0.675518123629784
+"train","Elastic-net",0.674359903986589
+"train","Elastic-net",0.67498087202839
+"train","Elastic-net",0.673180903837612
+"train","Elastic-net",0.669986188667502
+"train","Elastic-net",0.66971383396548
+"train","Elastic-net",0.672295027857692
+"train","Elastic-net",0.671944101376174
+"train","Elastic-net",0.67521261180285
+"train","Elastic-net",0.674948140520414
+"train","Elastic-net",0.674587461906061
+"train","Elastic-net",0.679274085009186
+"train","Elastic-net",0.674960745874463
+"train","Elastic-net",0.673181412213419
+"train","Elastic-net",0.678132328389114
+"train","Elastic-net",0.672130241499651
+"train","Elastic-net",0.66652633680467
+"train","Elastic-net",0.673402130353847
+"train","Elastic-net",0.678365906272854
+"train","Elastic-net",0.669887125586395
+"train","Elastic-net",0.674878191425065
+"train","Elastic-net",0.672483176648716
+"train","Elastic-net",0.675783801864285
+"train","Elastic-net",0.671955625861765
+"train","Elastic-net",0.669974410827083
+"train","Elastic-net",0.673723898795696
+"train","Elastic-net",0.672368792798439
+"train","Elastic-net",0.680352016464659
+"train","Elastic-net",0.675370962181704
+"train","Elastic-net",0.674380096728283
+"train","Elastic-net",0.675438548973199
+"train","Elastic-net",0.677996758807469
+"train","Elastic-net",0.675420757796411
+"train","Elastic-net",0.671730988415947
+"train","Elastic-net",0.668986791543024
+"train","Elastic-net",0.671419182138963
+"train","Elastic-net",0.673188107886094
+"train","Elastic-net",0.669378572180459
+"train","Elastic-net",0.670266221296723
+"train","Elastic-net",0.672976869535521
+"train","Elastic-net",0.673788978173346
+"train","Elastic-net",0.674398387937369
+"train","Elastic-net",0.674117047568491
+"train","Elastic-net",0.671459510137717
+"train","Elastic-net",0.669988023015983
+"train","Elastic-net",0.673798839604792
+"train","Elastic-net",0.675961226082745
+"train","Elastic-net",0.6721046318547
+"train","Elastic-net",0.673674146699404
+"train","Elastic-net",0.672827129675866
+"train","Elastic-net",0.673191672004384
+"train","Elastic-net",0.674126707916819
+"train","Ridge",0.659807204800087
+"train","Ridge",0.66229584714633
+"train","Ridge",0.665054860464043
+"train","Ridge",0.666136098543095
+"train","Ridge",0.661235645359366
+"train","Ridge",0.656265756531725
+"train","Ridge",0.663772969177573
+"train","Ridge",0.665609162183278
+"train","Ridge",0.661320537776608
+"train","Ridge",0.66112296634832
+"train","Ridge",0.66072717207922
+"train","Ridge",0.661566144834585
+"train","Ridge",0.6666778632635
+"train","Ridge",0.661771769478711
+"train","Ridge",0.663186340260168
+"train","Ridge",0.657337399232656
+"train","Ridge",0.660305150301787
+"train","Ridge",0.658740561019726
+"train","Ridge",0.656831680297253
+"train","Ridge",0.659507654399921
+"train","Ridge",0.658568046013629
+"train","Ridge",0.665854252423814
+"train","Ridge",0.658375613739506
+"train","Ridge",0.659525167871566
+"train","Ridge",0.666616828498933
+"train","Ridge",0.663307761047938
+"train","Ridge",0.667951182418967
+"train","Ridge",0.660747742247784
+"train","Ridge",0.664166248101813
+"train","Ridge",0.663827223741084
+"train","Ridge",0.664935088065596
+"train","Ridge",0.659561141024192
+"train","Ridge",0.663599517945753
+"train","Ridge",0.659673075982708
+"train","Ridge",0.664386380432476
+"train","Ridge",0.659486187206753
+"train","Ridge",0.665000082358114
+"train","Ridge",0.658220094005045
+"train","Ridge",0.661940762972434
+"train","Ridge",0.659336605286675
+"train","Ridge",0.660911806739282
+"train","Ridge",0.664295982621122
+"train","Ridge",0.662181991284911
+"train","Ridge",0.663282825422163
+"train","Ridge",0.660738832429691
+"train","Ridge",0.661713492416847
+"train","Ridge",0.664203352391635
+"train","Ridge",0.661435093700373
+"train","Ridge",0.663057640737442
+"train","Ridge",0.661778207300032
+"train","Ridge",0.662268871444263
+"train","Ridge",0.660688420990741
+"train","Ridge",0.657708168763297
+"train","Ridge",0.657030301074717
+"train","Ridge",0.659803256041281
+"train","Ridge",0.659504266449033
+"train","Ridge",0.662570844228779
+"train","Ridge",0.66271054498564
+"train","Ridge",0.661946437673614
+"train","Ridge",0.666782238214303
+"train","Ridge",0.662521772433632
+"train","Ridge",0.660116597032235
+"train","Ridge",0.66568802787859
+"train","Ridge",0.659427344844343
+"train","Ridge",0.654343929498787
+"train","Ridge",0.660733465946314
+"train","Ridge",0.66557135326851
+"train","Ridge",0.657564238194574
+"train","Ridge",0.662859592953756
+"train","Ridge",0.660261046548792
+"train","Ridge",0.662765663192987
+"train","Ridge",0.659633358751718
+"train","Ridge",0.65765436420337
+"train","Ridge",0.661408346336306
+"train","Ridge",0.660229425362307
+"train","Ridge",0.667424438956145
+"train","Ridge",0.662679874842566
+"train","Ridge",0.662273594247874
+"train","Ridge",0.663004753223137
+"train","Ridge",0.665325318612828
+"train","Ridge",0.663014959081962
+"train","Ridge",0.65906853468676
+"train","Ridge",0.656611515898385
+"train","Ridge",0.658795327183552
+"train","Ridge",0.660629692281132
+"train","Ridge",0.656864720771796
+"train","Ridge",0.657893153753035
+"train","Ridge",0.660302363740512
+"train","Ridge",0.66114359503486
+"train","Ridge",0.662148339869285
+"train","Ridge",0.661476169463056
+"train","Ridge",0.659272601159002
+"train","Ridge",0.657657977841569
+"train","Ridge",0.66137318952392
+"train","Ridge",0.663483357887144
+"train","Ridge",0.65966745603312
+"train","Ridge",0.660785539876084
+"train","Ridge",0.660234830613014
+"train","Ridge",0.660728490436861
+"train","Ridge",0.661809795555797
+"train","Random Forest",0.969747155516119
+"train","Random Forest",0.970487280004425
+"train","Random Forest",0.969753274867452
+"train","Random Forest",0.970294810595513
+"train","Random Forest",0.969460150351513
+"train","Random Forest",0.970022667520997
+"train","Random Forest",0.970071902081278
+"train","Random Forest",0.969773874721258
+"train","Random Forest",0.969813769971948
+"train","Random Forest",0.970330661981207
+"train","Random Forest",0.969842075194646
+"train","Random Forest",0.97021032476387
+"train","Random Forest",0.96986581774368
+"train","Random Forest",0.969859046478165
+"train","Random Forest",0.970091147191601
+"train","Random Forest",0.969911893929777
+"train","Random Forest",0.969836630172145
+"train","Random Forest",0.97005894644679
+"train","Random Forest",0.969870691250867
+"train","Random Forest",0.969706457669003
+"train","Random Forest",0.970225180552062
+"train","Random Forest",0.969806116263263
+"train","Random Forest",0.970341355591587
+"train","Random Forest",0.969621760397981
+"train","Random Forest",0.96980803466355
+"train","Random Forest",0.969243359510047
+"train","Random Forest",0.970124396051492
+"train","Random Forest",0.96982872569032
+"train","Random Forest",0.969614269708984
+"train","Random Forest",0.969766190506742
+"train","Random Forest",0.969850212687782
+"train","Random Forest",0.969944592836078
+"train","Random Forest",0.96987568197999
+"train","Random Forest",0.970078180195682
+"train","Random Forest",0.970337914252016
+"train","Random Forest",0.969999606417988
+"train","Random Forest",0.969819615266589
+"train","Random Forest",0.970142812095408
+"train","Random Forest",0.970119619544193
+"train","Random Forest",0.970582637794324
+"train","Random Forest",0.970016589355705
+"train","Random Forest",0.96936079437001
+"train","Random Forest",0.969848152011541
+"train","Random Forest",0.970177310445566
+"train","Random Forest",0.969845583829984
+"train","Random Forest",0.970270594716316
+"train","Random Forest",0.969682094059419
+"train","Random Forest",0.970194664243007
+"train","Random Forest",0.969642414661399
+"train","Random Forest",0.970088214913224
+"train","Random Forest",0.969772556772198
+"train","Random Forest",0.969927541297598
+"train","Random Forest",0.969515327523458
+"train","Random Forest",0.969590599811565
+"train","Random Forest",0.969741846548685
+"train","Random Forest",0.970302517799721
+"train","Random Forest",0.970027208521863
+"train","Random Forest",0.970376476980317
+"train","Random Forest",0.969806398373646
+"train","Random Forest",0.969879424373414
+"train","Random Forest",0.969899031024151
+"train","Random Forest",0.969780224069277
+"train","Random Forest",0.970422000011005
+"train","Random Forest",0.970121933346412
+"train","Random Forest",0.969938662041628
+"train","Random Forest",0.969983645269775
+"train","Random Forest",0.970311288877855
+"train","Random Forest",0.969809359760671
+"train","Random Forest",0.970139202308288
+"train","Random Forest",0.969569445444697
+"train","Random Forest",0.970239328930362
+"train","Random Forest",0.969441962373101
+"train","Random Forest",0.969982312444929
+"train","Random Forest",0.96943012226086
+"train","Random Forest",0.96938248586557
+"train","Random Forest",0.969584724174008
+"train","Random Forest",0.969740501699929
+"train","Random Forest",0.969768378858406
+"train","Random Forest",0.970412625064204
+"train","Random Forest",0.969969045364738
+"train","Random Forest",0.969870053384354
+"train","Random Forest",0.969605620209267
+"train","Random Forest",0.969787274549392
+"train","Random Forest",0.969865289755065
+"train","Random Forest",0.969907202761345
+"train","Random Forest",0.969720412481713
+"train","Random Forest",0.969636327570126
+"train","Random Forest",0.97020011889123
+"train","Random Forest",0.969424630541194
+"train","Random Forest",0.969800901612513
+"train","Random Forest",0.970261193378472
+"train","Random Forest",0.969975357679295
+"train","Random Forest",0.970416306148337
+"train","Random Forest",0.969797021328323
+"train","Random Forest",0.970434181362447
+"train","Random Forest",0.970271598955835
+"train","Random Forest",0.970128222460024
+"train","Random Forest",0.969505292313385
+"train","Random Forest",0.969691723901998
+"train","Random Forest",0.969990600113361
+"test","Lasso",0.673112733339692
+"test","Lasso",0.66149537585193
+"test","Lasso",0.646698596551576
+"test","Lasso",0.64499751388561
+"test","Lasso",0.665061626443936
+"test","Lasso",0.687316328766399
+"test","Lasso",0.657200232043697
+"test","Lasso",0.650939925738898
+"test","Lasso",0.665988861424312
+"test","Lasso",0.665874464630273
+"test","Lasso",0.668909701405994
+"test","Lasso",0.665143836144539
+"test","Lasso",0.64378846942658
+"test","Lasso",0.663919534694142
+"test","Lasso",0.659890798911527
+"test","Lasso",0.68223537719888
+"test","Lasso",0.667053355135811
+"test","Lasso",0.676759994518646
+"test","Lasso",0.685479874910416
+"test","Lasso",0.672294140726831
+"test","Lasso",0.677655724695429
+"test","Lasso",0.646529109967164
+"test","Lasso",0.678034993509662
+"test","Lasso",0.672563615237689
+"test","Lasso",0.643688988122044
+"test","Lasso",0.657105982445662
+"test","Lasso",0.637455753243507
+"test","Lasso",0.666731335740689
+"test","Lasso",0.654125076311003
+"test","Lasso",0.657668318188904
+"test","Lasso",0.648133397120339
+"test","Lasso",0.671597865431772
+"test","Lasso",0.658049860536797
+"test","Lasso",0.673002552713311
+"test","Lasso",0.65424164881411
+"test","Lasso",0.67473567539436
+"test","Lasso",0.651189236240113
+"test","Lasso",0.678253988598764
+"test","Lasso",0.663804309970791
+"test","Lasso",0.673844979266674
+"test","Lasso",0.668398689531063
+"test","Lasso",0.654424556901077
+"test","Lasso",0.661252261767504
+"test","Lasso",0.656189896416419
+"test","Lasso",0.669657716061342
+"test","Lasso",0.664129514494361
+"test","Lasso",0.653760397161858
+"test","Lasso",0.665216589638933
+"test","Lasso",0.65997188616054
+"test","Lasso",0.663022389363944
+"test","Lasso",0.660687958589172
+"test","Lasso",0.667665313922445
+"test","Lasso",0.680135353222956
+"test","Lasso",0.683866589291673
+"test","Lasso",0.672225684242049
+"test","Lasso",0.673190340087435
+"test","Lasso",0.657442478302029
+"test","Lasso",0.66121190381825
+"test","Lasso",0.663741412744266
+"test","Lasso",0.644390169758244
+"test","Lasso",0.661880654082394
+"test","Lasso",0.668399047279401
+"test","Lasso",0.649526838490937
+"test","Lasso",0.673525637640551
+"test","Lasso",0.694910140703928
+"test","Lasso",0.668606311009164
+"test","Lasso",0.647899468707185
+"test","Lasso",0.682698610269296
+"test","Lasso",0.659687844459282
+"test","Lasso",0.671882291735378
+"test","Lasso",0.657025783463414
+"test","Lasso",0.671090132066806
+"test","Lasso",0.682447235453671
+"test","Lasso",0.665865383074065
+"test","Lasso",0.670611750405728
+"test","Lasso",0.639009511791081
+"test","Lasso",0.661021866132381
+"test","Lasso",0.663124160920787
+"test","Lasso",0.658108154156583
+"test","Lasso",0.648768543524298
+"test","Lasso",0.660935034690804
+"test","Lasso",0.674670394215441
+"test","Lasso",0.684485926950554
+"test","Lasso",0.676135790498792
+"test","Lasso",0.667559106627263
+"test","Lasso",0.685089419029598
+"test","Lasso",0.679723036315399
+"test","Lasso",0.669184504727823
+"test","Lasso",0.667156368896442
+"test","Lasso",0.66309977971667
+"test","Lasso",0.664675322737935
+"test","Lasso",0.675444624562512
+"test","Lasso",0.679808974989381
+"test","Lasso",0.665402739209034
+"test","Lasso",0.657910540418173
+"test","Lasso",0.672667355315996
+"test","Lasso",0.666608469014341
+"test","Lasso",0.670034531053036
+"test","Lasso",0.669266834539393
+"test","Lasso",0.665740584390778
+"test","Elastic-net",0.673197228642687
+"test","Elastic-net",0.661397443068714
+"test","Elastic-net",0.646691001835722
+"test","Elastic-net",0.64500016143613
+"test","Elastic-net",0.665308960444418
+"test","Elastic-net",0.687249874300861
+"test","Elastic-net",0.657129283129221
+"test","Elastic-net",0.650822204971685
+"test","Elastic-net",0.665866503100587
+"test","Elastic-net",0.665871123193666
+"test","Elastic-net",0.668773671062981
+"test","Elastic-net",0.665124759962391
+"test","Elastic-net",0.643757236802684
+"test","Elastic-net",0.663917173063315
+"test","Elastic-net",0.659866873212342
+"test","Elastic-net",0.682259901578728
+"test","Elastic-net",0.667044308206287
+"test","Elastic-net",0.676802170980218
+"test","Elastic-net",0.685507273441398
+"test","Elastic-net",0.672325901505675
+"test","Elastic-net",0.677565499270866
+"test","Elastic-net",0.646587917860307
+"test","Elastic-net",0.677884044540781
+"test","Elastic-net",0.67259065127095
+"test","Elastic-net",0.643537936700543
+"test","Elastic-net",0.657053832654202
+"test","Elastic-net",0.637330985468447
+"test","Elastic-net",0.666745755086845
+"test","Elastic-net",0.654112316817012
+"test","Elastic-net",0.657671936362041
+"test","Elastic-net",0.648104330978258
+"test","Elastic-net",0.671125570405192
+"test","Elastic-net",0.658096827272021
+"test","Elastic-net",0.673024923398736
+"test","Elastic-net",0.654301514719164
+"test","Elastic-net",0.674718181440362
+"test","Elastic-net",0.651053816559042
+"test","Elastic-net",0.678165554920319
+"test","Elastic-net",0.663782283026946
+"test","Elastic-net",0.674066739181731
+"test","Elastic-net",0.668315717576701
+"test","Elastic-net",0.654470606003886
+"test","Elastic-net",0.661348034750651
+"test","Elastic-net",0.656305011170438
+"test","Elastic-net",0.669449210463963
+"test","Elastic-net",0.664111053267469
+"test","Elastic-net",0.653763334881578
+"test","Elastic-net",0.665116473990644
+"test","Elastic-net",0.659973523336981
+"test","Elastic-net",0.66295772478319
+"test","Elastic-net",0.660698790464329
+"test","Elastic-net",0.667681221198283
+"test","Elastic-net",0.680086649605122
+"test","Elastic-net",0.683556619597155
+"test","Elastic-net",0.672200087292174
+"test","Elastic-net",0.673156630345714
+"test","Elastic-net",0.657566040075051
+"test","Elastic-net",0.661223019278759
+"test","Elastic-net",0.663819715686257
+"test","Elastic-net",0.644472842372943
+"test","Elastic-net",0.661878252636449
+"test","Elastic-net",0.668487173900841
+"test","Elastic-net",0.649523983406121
+"test","Elastic-net",0.673573826622169
+"test","Elastic-net",0.695163449583453
+"test","Elastic-net",0.668625128717318
+"test","Elastic-net",0.64799035316633
+"test","Elastic-net",0.682682955132444
+"test","Elastic-net",0.659431815989176
+"test","Elastic-net",0.671877928957165
+"test","Elastic-net",0.656732263035802
+"test","Elastic-net",0.671488525243581
+"test","Elastic-net",0.682364089992996
+"test","Elastic-net",0.665809365974337
+"test","Elastic-net",0.670626092644654
+"test","Elastic-net",0.639057958134971
+"test","Elastic-net",0.660830391511098
+"test","Elastic-net",0.662813037328833
+"test","Elastic-net",0.658143301830308
+"test","Elastic-net",0.648785756259599
+"test","Elastic-net",0.660958296477807
+"test","Elastic-net",0.674732908107712
+"test","Elastic-net",0.684516618842568
+"test","Elastic-net",0.676144126424338
+"test","Elastic-net",0.667890257123982
+"test","Elastic-net",0.685085774983729
+"test","Elastic-net",0.679885176841889
+"test","Elastic-net",0.669239367331284
+"test","Elastic-net",0.667211823485873
+"test","Elastic-net",0.66300038527846
+"test","Elastic-net",0.664658661232872
+"test","Elastic-net",0.675430506579592
+"test","Elastic-net",0.680071106906306
+"test","Elastic-net",0.665414847331792
+"test","Elastic-net",0.657872295296494
+"test","Elastic-net",0.672649970948731
+"test","Elastic-net",0.666615471459064
+"test","Elastic-net",0.670148018039064
+"test","Elastic-net",0.669250515450136
+"test","Elastic-net",0.665549909388669
+"test","Ridge",0.661643389504853
+"test","Ridge",0.644878606106891
+"test","Ridge",0.634512283545617
+"test","Ridge",0.633981583719742
+"test","Ridge",0.657844877733288
+"test","Ridge",0.677180904196453
+"test","Ridge",0.639598730630657
+"test","Ridge",0.634349392415175
+"test","Ridge",0.651669695044479
+"test","Ridge",0.654666657331265
+"test","Ridge",0.651637631754298
+"test","Ridge",0.65180703945185
+"test","Ridge",0.629430209546532
+"test","Ridge",0.653017438232988
+"test","Ridge",0.644709475308755
+"test","Ridge",0.672682667880653
+"test","Ridge",0.657437041569677
+"test","Ridge",0.665271923906671
+"test","Ridge",0.674197542518317
+"test","Ridge",0.662308697823585
+"test","Ridge",0.661913773806231
+"test","Ridge",0.637239432431183
+"test","Ridge",0.660044438679245
+"test","Ridge",0.662737435109188
+"test","Ridge",0.636000233581411
+"test","Ridge",0.648566456432386
+"test","Ridge",0.627632465810254
+"test","Ridge",0.658033829344447
+"test","Ridge",0.641597521702822
+"test","Ridge",0.642131536177176
+"test","Ridge",0.640102564795834
+"test","Ridge",0.654907366318557
+"test","Ridge",0.642718674378924
+"test","Ridge",0.659172693381407
+"test","Ridge",0.639680834499031
+"test","Ridge",0.659988665747575
+"test","Ridge",0.633205718788212
+"test","Ridge",0.662689396457302
+"test","Ridge",0.647625288643182
+"test","Ridge",0.663443290448219
+"test","Ridge",0.656677933752463
+"test","Ridge",0.640151304194605
+"test","Ridge",0.653756158585574
+"test","Ridge",0.649059807903595
+"test","Ridge",0.658730207155218
+"test","Ridge",0.650718752213283
+"test","Ridge",0.638001662043127
+"test","Ridge",0.6530899449296
+"test","Ridge",0.647865183208058
+"test","Ridge",0.647544800876234
+"test","Ridge",0.650711384017246
+"test","Ridge",0.659044789727626
+"test","Ridge",0.672599340710726
+"test","Ridge",0.672166367644251
+"test","Ridge",0.66131348252056
+"test","Ridge",0.659445543061602
+"test","Ridge",0.651065565529856
+"test","Ridge",0.650456158098774
+"test","Ridge",0.653367515012426
+"test","Ridge",0.631665475293881
+"test","Ridge",0.648357726060989
+"test","Ridge",0.667754906121175
+"test","Ridge",0.636019387602222
+"test","Ridge",0.664968856697849
+"test","Ridge",0.683477054745381
+"test","Ridge",0.659667833508393
+"test","Ridge",0.640871232951187
+"test","Ridge",0.670762047774084
+"test","Ridge",0.638602036047894
+"test","Ridge",0.658911474874531
+"test","Ridge",0.650592657025542
+"test","Ridge",0.654465921852166
+"test","Ridge",0.665612430331104
+"test","Ridge",0.650419721898499
+"test","Ridge",0.655112124517586
+"test","Ridge",0.628108672284297
+"test","Ridge",0.65241950598937
+"test","Ridge",0.645762110463411
+"test","Ridge",0.639831645677787
+"test","Ridge",0.641084838376422
+"test","Ridge",0.64483230223783
+"test","Ridge",0.664493236797544
+"test","Ridge",0.676186015687611
+"test","Ridge",0.665486497095542
+"test","Ridge",0.66237056975248
+"test","Ridge",0.66843323531766
+"test","Ridge",0.665042877177451
+"test","Ridge",0.660252638198101
+"test","Ridge",0.65544441216806
+"test","Ridge",0.651795930672871
+"test","Ridge",0.65088458369906
+"test","Ridge",0.659922021063969
+"test","Ridge",0.669121300770068
+"test","Ridge",0.654126750075811
+"test","Ridge",0.646557416464716
+"test","Ridge",0.659826043669037
+"test","Ridge",0.657056161048427
+"test","Ridge",0.664619923072753
+"test","Ridge",0.655886761119675
+"test","Ridge",0.650721540114273
+"test","Random Forest",0.833254482946618
+"test","Random Forest",0.803441815865171
+"test","Random Forest",0.812769996141672
+"test","Random Forest",0.808639391873119
+"test","Random Forest",0.830930148647382
+"test","Random Forest",0.828989562116782
+"test","Random Forest",0.814305215378775
+"test","Random Forest",0.821098801675559
+"test","Random Forest",0.82976036686411
+"test","Random Forest",0.819471344857245
+"test","Random Forest",0.814305798269683
+"test","Random Forest",0.819944014971821
+"test","Random Forest",0.816470667938915
+"test","Random Forest",0.823495487618387
+"test","Random Forest",0.809533030384393
+"test","Random Forest",0.83000493126277
+"test","Random Forest",0.817860671710716
+"test","Random Forest",0.825076514852958
+"test","Random Forest",0.830064379011471
+"test","Random Forest",0.828492413922198
+"test","Random Forest",0.814551006642703
+"test","Random Forest",0.808629656347192
+"test","Random Forest",0.817580472459895
+"test","Random Forest",0.83355946603244
+"test","Random Forest",0.826246905133929
+"test","Random Forest",0.818904989030315
+"test","Random Forest",0.808595790836584
+"test","Random Forest",0.829796419945667
+"test","Random Forest",0.813797718721913
+"test","Random Forest",0.815277652036419
+"test","Random Forest",0.813426081276227
+"test","Random Forest",0.819928566302661
+"test","Random Forest",0.816525627958849
+"test","Random Forest",0.8193346693575
+"test","Random Forest",0.804547942011206
+"test","Random Forest",0.828724464793297
+"test","Random Forest",0.806434382715277
+"test","Random Forest",0.82671491402679
+"test","Random Forest",0.822979253683527
+"test","Random Forest",0.822773488793138
+"test","Random Forest",0.819412176917085
+"test","Random Forest",0.816096727317949
+"test","Random Forest",0.817396514302679
+"test","Random Forest",0.815649979364679
+"test","Random Forest",0.829222304986414
+"test","Random Forest",0.816381210115956
+"test","Random Forest",0.822124103852229
+"test","Random Forest",0.815900900209356
+"test","Random Forest",0.823978194270926
+"test","Random Forest",0.819572814011928
+"test","Random Forest",0.827585481215159
+"test","Random Forest",0.8270682276063
+"test","Random Forest",0.834191305552017
+"test","Random Forest",0.830172398250979
+"test","Random Forest",0.82463104194543
+"test","Random Forest",0.825825594675583
+"test","Random Forest",0.816695853330839
+"test","Random Forest",0.810553867553408
+"test","Random Forest",0.824600178878436
+"test","Random Forest",0.816970068132572
+"test","Random Forest",0.820483075540561
+"test","Random Forest",0.8326321113322
+"test","Random Forest",0.806836491800304
+"test","Random Forest",0.820613956725134
+"test","Random Forest",0.83247550479539
+"test","Random Forest",0.833022898904446
+"test","Random Forest",0.811281123927158
+"test","Random Forest",0.837891523552696
+"test","Random Forest",0.809194632868582
+"test","Random Forest",0.830997162968892
+"test","Random Forest",0.818658077680775
+"test","Random Forest",0.824837078148407
+"test","Random Forest",0.82786844390732
+"test","Random Forest",0.830732310756513
+"test","Random Forest",0.828527255383295
+"test","Random Forest",0.813773825064425
+"test","Random Forest",0.832291537731238
+"test","Random Forest",0.818249230376048
+"test","Random Forest",0.797463087530673
+"test","Random Forest",0.820500317415811
+"test","Random Forest",0.814657846981129
+"test","Random Forest",0.830629210486704
+"test","Random Forest",0.833732042384192
+"test","Random Forest",0.832680920322327
+"test","Random Forest",0.817790113366324
+"test","Random Forest",0.817073166453469
+"test","Random Forest",0.834959875166735
+"test","Random Forest",0.82273701302625
+"test","Random Forest",0.829772147527976
+"test","Random Forest",0.81951864085634
+"test","Random Forest",0.819334276135618
+"test","Random Forest",0.825293925698483
+"test","Random Forest",0.824112337538364
+"test","Random Forest",0.827706753614422
+"test","Random Forest",0.812298085158543
+"test","Random Forest",0.819292037346807
+"test","Random Forest",0.821027119170997
+"test","Random Forest",0.828459836556795
+"test","Random Forest",0.83115611800536
+"test","Random Forest",0.812107326118293
